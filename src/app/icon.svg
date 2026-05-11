@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Background -->
+  <rect width="32" height="32" rx="8" fill="#0A192F"/>
+  <!-- Border accent -->
+  <rect x="1" y="1" width="30" height="30" rx="7" stroke="#64FFDA" stroke-width="1.5" stroke-opacity="0.6"/>
+  <!-- D -->
+  <text
+    x="5"
+    y="23"
+    font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace"
+    font-size="17"
+    font-weight="700"
+    fill="#64FFDA"
+    letter-spacing="-1"
+  >DC</text>
+</svg>

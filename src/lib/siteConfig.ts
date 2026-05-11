@@ -1,0 +1,33 @@
+export const siteConfig = {
+  url: 'https://dipeshchaulagain.dev', // update once deployed
+  name: 'Dipesh Chaulagain',
+  title: 'Dipesh Chaulagain — Frontend Developer · React / Next.js / Web3',
+  description:
+    'Frontend Developer with 3+ years building scalable web applications and Web3 solutions across Nepal and the UAE. Specialising in React, Next.js, TypeScript, Polkadot, Cardano, and End-to-End Encryption.',
+  tagline: 'Building Secure, Scalable Web3 & Frontend Solutions.',
+  email: 'dcdipesh1998@gmail.com',
+  location: 'Kathmandu, Nepal',
+  linkedin: 'https://linkedin.com/in/dipesh-chaulagain-4143641a4',
+  github: 'https://github.com/Dc-Dipesh',
+  cv: '/dipesh_chaulagain_cv.pdf',
+  keywords: [
+    'Dipesh Chaulagain',
+    'Frontend Developer Nepal',
+    'React Developer',
+    'Next.js Developer',
+    'TypeScript Engineer',
+    'Web3 Developer',
+    'Blockchain Frontend',
+    'Polkadot Developer',
+    'Cardano Developer',
+    'dApp Developer',
+    'End-to-End Encryption',
+    'E2EE',
+    'Remote Frontend Developer',
+    'Nepal Developer',
+    'UAE Developer',
+    'Tailwind CSS',
+    'React Query',
+    'Framer Motion',
+  ],
+}

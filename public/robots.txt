@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://dipeshchaulagain.com.np/sitemap.xml
+Host: https://dipeshchaulagain.com.np

@@ -1,5 +1,5 @@
 export const siteConfig = {
-  url: 'https://dipeshchaulagain.dev', // update once deployed
+  url: 'https://dipeshchaulagain.com.np',
   name: 'Dipesh Chaulagain',
   title: 'Dipesh Chaulagain — Frontend Developer · React / Next.js / Web3',
   description:

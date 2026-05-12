@@ -385,10 +385,10 @@ export default function Hero() {
               className="absolute -bottom-4 -left-10 glass rounded-xl px-4 py-2 text-sm border border-accent/20"
             >
               <span className="text-accent font-mono font-bold text-base">
-                30%
+                React
               </span>
               <span className="text-text-secondary ml-1 text-xs">
-                faster loads
+                + Next.js
               </span>
             </motion.div>
           </div>

@@ -124,14 +124,14 @@ const socialLinks = [
   {
     icon: GithubIcon,
     label: "GitHub",
-    href: "https://github.com/dipesh-chaulagain",
+    href: "https://github.com/Dc-Dipesh",
   },
   {
     icon: LinkedInIcon,
     label: "LinkedIn",
     href: "https://linkedin.com/in/dipesh-chaulagain-4143641a4",
   },
-  { icon: Mail, label: "Email", href: "mailto:dipesh@nuvoladigital.io" },
+  { icon: Mail, label: "Email", href: "mailto:dcdipesh1998@gmail.com" },
 ];
 
 const highlights = [

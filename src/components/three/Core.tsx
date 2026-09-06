@@ -170,15 +170,9 @@ export function Core({ progress, offset = [0, 0], baseScale = 1 }: CoreProps) {
 
   return (
     <group ref={group}>
-      <mesh>
-        <icosahedronGeometry args={[1.32, 48]} />
-        <shaderMaterial
-          vertexShader={vertexShader}
-          fragmentShader={fragmentShader}
-          uniforms={uniforms}
-        />
-      </mesh>
-
+      {/* Wireframe only — the solid body is gone, so the object reads as
+          structure rather than mass. `uniforms` still drives the shared time
+          and amplitude that the shell's displacement rides on. */}
       <group ref={shell}>
         <mesh scale={1.045}>
           <icosahedronGeometry args={[1.32, 9]} />
